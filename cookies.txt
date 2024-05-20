@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.creatium.site	TRUE	/	FALSE	1999999999	__ddg1_	apDhUwNZ4J04JtI6w4Bs
+c9941f.creatium.site	TRUE	/	FALSE	1999999999	creatium-stat-cookie-hash	9726ba40a33dcc4c5bd956d2648b5350
+c9941f.creatium.site	TRUE	/	FALSE	1999999999	SameSite	None
+c9941f.creatium.site	TRUE	/	FALSE	1999999999	visit_id	663477389
+
